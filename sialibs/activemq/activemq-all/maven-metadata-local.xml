@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sialibs.activemq</groupId>
+  <artifactId>activemq-all</artifactId>
+  <versioning>
+    <release>5.15.12</release>
+    <versions>
+      <version>5.15.12</version>
+    </versions>
+    <lastUpdated>20230114213333</lastUpdated>
+  </versioning>
+</metadata>
