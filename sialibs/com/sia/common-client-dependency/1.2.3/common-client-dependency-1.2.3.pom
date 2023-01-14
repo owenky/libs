@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.sia</groupId>
+	<groupId>sialibs.com.sia</groupId>
 	<artifactId>common-client-dependency</artifactId>
-	<version>1.2.3</version>
+	<version>1.2.4</version>
 	<name>common-client-dependency</name>
 	<packaging>pom</packaging>
 	<description>Common dependency of client applications</description>
@@ -28,154 +28,154 @@
 	</properties>
     <dependencies>
         <dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>swingx-action</artifactId>
             <version>1.6.5</version>
 
         </dependency>
         <dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>swingx-autocomplete</artifactId>
             <version>1.6.5</version>
 
         </dependency>
         <dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>swingx-common</artifactId>
             <version>1.6.5</version>
 
         </dependency>
         <dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>swingx-core</artifactId>
             <version>1.6.5</version>
 
         </dependency>
         <dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>swingx-graphics</artifactId>
             <version>1.6.5</version>
 
         </dependency>
         <dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>swingx-painters</artifactId>
             <version>1.6.5</version>
 
         </dependency>
         <dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>swingx-plaf</artifactId>
             <version>1.6.5</version>
 
         </dependency>
         <!--dependency>
-            <groupId>com.sia</groupId>
+            <groupId>sialibs.swingx</groupId>
             <artifactId>activemq-all</artifactId>
             <version>5.15.12</version>
         </dependency -->
          <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>action</artifactId>
              <version>3.7.12</version>
          </dependency>
          <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>beaninfo</artifactId>
              <version>3.7.12</version>
          </dependency>
          <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>charts</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>common</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>components</artifactId>
              <version>3.7.12</version>
         </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>dashboard</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>data</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>designer</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>dialogs</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>diff</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>dock</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>editor</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>gantt</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>grids</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>pivot</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>plaf</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>plaf-jdk7</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>properties</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>rss</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>shortcut</artifactId>
              <version>3.7.12</version>
          </dependency>
         <dependency>
-             <groupId>jide</groupId>
+             <groupId>sialibs.jide</groupId>
              <artifactId>treemap</artifactId>
              <version>3.7.12</version>
          </dependency>
