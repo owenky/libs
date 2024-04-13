@@ -25,7 +25,7 @@
 <!--		<key.password>sia04032021</key.password>-->
 <!--		<key.alias>sia</key.alias>-->
 <!--		<key.store>${key.store.path}${key.store.name}</key.store>-->
-        <!-- following used for jar singing with Digicert KeyLocker -- 04/13/2024-->
+        <!-- following used for jar singing with Digicert KeyLocker on 04/13/2024-->
             <key.store>NONE</key.store>
             <key.password>none</key.password>
             <store.password>none</store.password>
