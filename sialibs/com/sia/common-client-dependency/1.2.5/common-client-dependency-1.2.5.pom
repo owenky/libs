@@ -18,7 +18,7 @@
 		<maven.jar.plugin.version>3.2.0</maven.jar.plugin.version>
 		<!-- following to skip unit test when running " mvn clean package" -->
 		<maven.test.skip>true</maven.test.skip>
-		<!-- following used for jar singing with old local jks. It is replaced by Digicert KeyLocker -- 04/13/2024-->
+		<!-- following used for jar singing with old local jks. It is replaced by Digicert KeyLocker on 04/13/2024-->
 <!--		<key.store.path>${user.dir}/DigitCertAndJarSign/</key.store.path>-->
 <!--		<key.store.name>sia.jks</key.store.name>-->
 <!--		<store.password>sia04032021</store.password>-->
