@@ -35,7 +35,7 @@
             <provider.arg>C:\Program Files\DigiCert\DigiCert Keylocker Tools\pkcs11properties.cfg</provider.arg>
             <key.alias>alias</key.alias>
             <tsa>http://timestamp.digicert.com</tsa>
-        <!-- end of singing with Digicert KeyLocker -- 04/13/2024-->
+        <!-- end of singing with Digicert KeyLocker on 04/13/2024-->
 	</properties>
     <dependencies>
         <dependency>
