@@ -27,13 +27,12 @@
 <!--		<key.store>${key.store.path}${key.store.name}</key.store>-->
         <!-- following used for jar singing with Digicert KeyLocker on 04/13/2024-->
             <key.store>NONE</key.store>
-            <key.password>none</key.password>
             <store.password>none</store.password>
             <provider.class>sun.security.pkcs11.SunPKCS11</provider.class>
             <store.type>PKCS11</store.type>
             <!-- see README.md for how to create pkcs11properties.cfg-->
             <provider.arg>C:\Program Files\DigiCert\DigiCert Keylocker Tools\pkcs11properties.cfg</provider.arg>
-            <key.alias>alias</key.alias>
+            <key.alias>sia</key.alias>
             <tsa>http://timestamp.digicert.com</tsa>
         <!-- end of singing with Digicert KeyLocker on 04/13/2024-->
 	</properties>
