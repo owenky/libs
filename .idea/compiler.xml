@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="charts" />
+        <module name="components" />
+        <module name="data" />
+        <module name="swingx-common" />
+        <module name="swingx-graphics" />
+        <module name="gantt" />
+        <module name="grids" />
+        <module name="dialogs" />
+        <module name="beaninfo" />
+        <module name="swingx-core" />
+        <module name="rss" />
+        <module name="shortcut" />
+        <module name="common" />
+        <module name="plaf" />
+        <module name="pivot" />
+        <module name="action" />
+        <module name="dock" />
+        <module name="swingx-plaf" />
+        <module name="swingx-autocomplete" />
+        <module name="dashboard" />
+        <module name="swingx-painters" />
+        <module name="swingx-action" />
+        <module name="editor" />
+        <module name="treemap" />
+        <module name="diff" />
+        <module name="designer" />
+        <module name="plaf-jdk7" />
+        <module name="activemq-all" />
+        <module name="properties" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

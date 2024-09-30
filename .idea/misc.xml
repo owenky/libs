@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sialibs/com/sia/common-client-dependency/1.2.5/common-client-dependency-1.2.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/rss/3.7.12/rss-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/data/3.7.12/data-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/diff/3.7.12/diff-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/dock/3.7.12/dock-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/plaf/3.7.12/plaf-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/gantt/3.7.12/gantt-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/grids/3.7.12/grids-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/pivot/3.7.12/pivot-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/action/3.7.12/action-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/charts/3.7.12/charts-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/common/3.7.12/common-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/editor/3.7.12/editor-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/dialogs/3.7.12/dialogs-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/treemap/3.7.12/treemap-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/beaninfo/3.7.12/beaninfo-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/designer/3.7.12/designer-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/shortcut/3.7.12/shortcut-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/dashboard/3.7.12/dashboard-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/plaf-jdk7/3.7.12/plaf-jdk7-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/components/3.7.12/components-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/jide/properties/3.7.12/properties-3.7.12.pom" />
+        <option value="$PROJECT_DIR$/sialibs/swingx/swingx-core/1.6.5/swingx-core-1.6.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/swingx/swingx-plaf/1.6.5/swingx-plaf-1.6.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/swingx/swingx-action/1.6.5/swingx-action-1.6.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/swingx/swingx-common/1.6.5/swingx-common-1.6.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/swingx/swingx-graphics/1.6.5/swingx-graphics-1.6.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/swingx/swingx-painters/1.6.5/swingx-painters-1.6.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/swingx/swingx-autocomplete/1.6.5/swingx-autocomplete-1.6.5.pom" />
+        <option value="$PROJECT_DIR$/sialibs/activemq/activemq-all/5.15.12/activemq-all-5.15.12.pom" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
