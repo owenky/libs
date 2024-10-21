@@ -4,7 +4,7 @@ rem and make sure ALL changes( including Unversioned Files by Intellij git) are 
 rem after running install.bat, add anything new in directory sialibs to git, commit them and push it to github
 rem  Last Step: add newly added jar to file dependencies_xml in this directory and change its version defined in version tag
 
-call mvn install:install-file -Dfile=dependencies_xml -DgroupId=sialibs.com.sia  -DartifactId=common-client-dependency -Dversion=3.1.0 -Dpackaging=pom -DlocalRepositoryPath=.  -DcreateChecksum=true
+call mvn install:install-file -Dfile=dependencies_xml -DgroupId=sialibs.com.sia  -DartifactId=common-client-dependency -Dversion=3.1.1 -Dpackaging=pom -DlocalRepositoryPath=.  -DcreateChecksum=true
 call mvn install:install-file -Dfile=swingx-action-1.6.5-1.jar -DgroupId=sialibs.swingx  -DartifactId=swingx-action -Dversion=1.6.5 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
 call mvn install:install-file -Dfile=swingx-autocomplete-1.6.5-1.jar -DgroupId=sialibs.swingx  -DartifactId=swingx-autocomplete -Dversion=1.6.5 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
 call mvn install:install-file -Dfile=swingx-common-1.6.5-1.jar -DgroupId=sialibs.swingx  -DartifactId=swingx-common -Dversion=1.6.5 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
@@ -43,3 +43,4 @@ call mvn install:install-file -Dfile=javafx.properties -DgroupId=sialibs.openfx 
 call mvn install:install-file -Dfile=javafx.swing.jar -DgroupId=sialibs.openfx   -DartifactId=swing -Dversion=17.0.12 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
 call mvn install:install-file -Dfile=javafx.web.jar -DgroupId=sialibs.openfx   -DartifactId=web -Dversion=17.0.12 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
 call mvn install:install-file -Dfile=javafx-swt.jar -DgroupId=sialibs.openfx   -DartifactId=swt -Dversion=17.0.12 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
+call mvn install:install-file -Dfile=jfxrt.jar -DgroupId=javafx.1.8   -DartifactId=jfxrt -Dversion=1.8 -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
