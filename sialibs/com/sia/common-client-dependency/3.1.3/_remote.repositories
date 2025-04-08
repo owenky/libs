@@ -1,4 +1,3 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Apr 08 17:26:12 EDT 2025
-controls-17.0.12.jar>=
-controls-17.0.12.pom>=
+#Tue Apr 08 17:25:36 EDT 2025
+common-client-dependency-3.1.3.pom>=
